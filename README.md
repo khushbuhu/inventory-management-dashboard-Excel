@@ -6,5 +6,6 @@ To develop an interactive Inventory Management Dashboard in Microsoft Excel that
 <img src="https://github.com/khushbuhu/inventory-management-dashboard-Excel/blob/465ab47588680516aaeecda0926812946da88a7e/Screenshot%202026-03-08%20112730.png" width="600">
 
 <br>
+## Dashboard Demo Video
 
-
+https://github.com/khushbuhu/inventory-management-dashboard-Excel/blob/5377fe89350260fac44e2b8af624c52a6ac75c6e/Inventory_Management_Sample_Data%20-%20Copy%20-%20Excel%202026-03-08%2011-48-32.mp4
